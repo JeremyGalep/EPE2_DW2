@@ -4,6 +4,8 @@ html, body{
   display: flex;
   flex-direction: column;
 background-color: #ffffff;
+font-weight: 700;
+font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
 }
 header span{
 margin-right: 50%;
@@ -12,4 +14,33 @@ margin-left: 10%;
 header{
 display: block;
 background-color: #1b0088 ;
+}
+#inicio1{
+	display: flex;
+margin-left: 5%;
+
+}
+
+#inicio1 .content{
+	display: flex;
+margin-top: 5%;
+
+}
+
+#inicio1 .content img{
+ width: 500px;
+ height: 200px;
+
+}
+#inicio1 .content2{
+	margin-left: 50px;
+	display: block;
+
+
+}
+#inicio2{
+	display: flex;
+	margin-top: 2%;
+margin-left: 5%;
+
 }
