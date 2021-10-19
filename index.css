@@ -3,10 +3,13 @@ html, body{
   margin:0;
   display: flex;
   flex-direction: column;
+background-color: #ffffff;
 }
-#Sidebar {
-	width:280px ;
-	height: 100%;
-
-
+header span{
+margin-right: 50%;
+margin-left: 10%;
+}
+header{
+display: block;
+background-color: #1b0088 ;
 }
